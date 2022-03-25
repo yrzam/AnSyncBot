@@ -1,0 +1,36 @@
+{
+  "name": "ansyncbot",
+  "version": "1.0.0",
+  "description": "Telegram bot that allows to view answers after all participants have replied",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptrToYuri/AnSyncBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptrToYuri/AnSyncBot/issues"
+  },
+  "homepage": "https://github.com/ptrToYuri/AnSyncBot#readme",
+  "dependencies": {
+    "@grammyjs/i18n": "^0.1.6",
+    "agenda": "^4.2.1",
+    "average": "^1.0.0",
+    "base64url": "^3.0.1",
+    "chunk-text": "^2.0.1",
+    "compute-median": "^2.0.0",
+    "config": "^3.3.6",
+    "emojis-list": "^3.0.0",
+    "log-timestamp": "^0.3.0",
+    "mongoose": "^6.0.12",
+    "shuffle-array": "^1.0.1",
+    "telegraf": "^4.4.2",
+    "telegraf-logger": "^3.0.0",
+    "telegraf-session-mongodb": "^2.0.2",
+    "telegraf-throttler": "^0.6.0"
+  }
+}
