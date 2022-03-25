@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ptrToYuri/AnSyncBot.git"
+    "url": "git+https://github.com/yrzam/AnSyncBot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ptrToYuri/AnSyncBot/issues"
+    "url": "https://github.com/yrzam/AnSyncBot/issues"
   },
-  "homepage": "https://github.com/ptrToYuri/AnSyncBot#readme",
+  "homepage": "https://github.com/yrzam/AnSyncBot#readme",
   "dependencies": {
     "@grammyjs/i18n": "^0.1.6",
     "agenda": "^4.2.1",
